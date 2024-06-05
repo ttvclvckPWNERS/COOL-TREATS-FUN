@@ -179,10 +179,6 @@ header p {
     transition: transform 0.3s;
 }
 
-.snowcone:hover {
-    transform: scale(1.05);
-}
-
 .snowcone img {
     width: 100px;
     height: 100px;
