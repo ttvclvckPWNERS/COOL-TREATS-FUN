@@ -86,12 +86,11 @@ nav ul li a {
     height: 590px;
 }
 
-.product:hover {
-    transform: scale(1.1);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+.product:hover img {
+    filter: grayscale(100%);
 }
 
-.product:hover img {
+.snowcones:hover img {
     filter: grayscale(100%);
 }
 
